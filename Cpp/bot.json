@@ -1,0 +1,8 @@
+{
+	  "Author":"Fahrurrozi",
+    "Email":"fahrurrozi31@gmail.com",
+    "NickName" :"Um",
+    "BotType": "CPlusPlus",
+    "ProjectLocation" : "SampleBot\\",
+    "RunFile" : "SampleBot\\Debug\\SampleBot.exe"
+}
