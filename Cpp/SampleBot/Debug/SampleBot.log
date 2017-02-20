@@ -1,0 +1,17 @@
+Build started 20-Feb-17 08:42:45.
+     1>Project "D:\BOMBERMAN\2016-Bomberman-master\Sample Bots\C++\SampleBot\SampleBot.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"D:\BOMBERMAN\2016-Bomberman-master\Sample Bots\C++\SampleBot\\" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\SampleBot.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt SampleBot.cpp
+         SampleBot.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\BOMBERMAN\2016-Bomberman-master\Sample Bots\C++\SampleBot\Debug\SampleBot.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Mega-Nerd\libsndfile\lib\libsndfile-1.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\BOMBERMAN\2016-Bomberman-master\Sample Bots\C++\SampleBot\Debug\SampleBot.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\BOMBERMAN\2016-Bomberman-master\Sample Bots\C++\SampleBot\Debug\SampleBot.lib" /MACHINE:X86 Debug\jsoncpp.obj
+         Debug\Player.obj
+         Debug\Point.obj
+         Debug\SampleBot.obj
+         Debug\stdafx.obj
+         SampleBot.vcxproj -> D:\BOMBERMAN\2016-Bomberman-master\Sample Bots\C++\SampleBot\Debug\SampleBot.exe
+     1>Done Building Project "D:\BOMBERMAN\2016-Bomberman-master\Sample Bots\C++\SampleBot\SampleBot.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.79
